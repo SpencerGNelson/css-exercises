@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(255, 136, 134);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.font{
+    font-size: 24px;
+}
+#even{
+    color: rgb(000, 000, 255);
+    font-size: 36px;
+}
+
+#diff{
+    background-color: rgb(136,255,134);
+    font-weight: bold;
+}
